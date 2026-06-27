@@ -15,15 +15,15 @@ If you are in the US, you can purchase a low cost pair of Finnes at:
 
 The price (ea) is for a pair. They are not anodized or brushed. They are otherwise fully functional, and this is the service I used during prototyping.
 
-### 3D Printing options
+## 3D Printing options
 
 Download the .stl file and print. This is obviously not as sturdy as metal, but they worked for me.
 
-### Metal Fabrication
+## Metal Fabrication
 
 Download the .dxf and cut. Ideal material is 6061 T6 Aluminum. **Must be .125" to fit the case properly. **
 
-### Additional Notes
+## Additional Notes
 
 For anti-skid and desk protection, I used Silicone Rubber Edge Trim to fit 1/8". You can find this in most hardware stores and online, but usually in long rolls. Skip the version that has 'self adhesive', not work the trouble.
 
