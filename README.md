@@ -5,6 +5,8 @@ I am making production files available here so that you can help yourself if you
 
 Thanks!
 
+You can throw me a cup of coffee if these help you out [Anything is appreciated!](https://www.paypal.com/donate/?hosted_button_id=DN92VBWQAB6K6)
+
 ## Reproduction / Purchasing options
 
 If you do not want to go through the production process, and you are in the US, you can purchase a low cost pair of Finnes at [SENDCUTSEND](https://marketplace.sendcutsend.com/p/CK48F560/wrennes-finnes-intellijel-case-stand-pair).
