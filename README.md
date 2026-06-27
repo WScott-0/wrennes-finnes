@@ -8,9 +8,9 @@ Thanks!
 You can throw me a cup of coffee if these help you out 
 [Anything is appreciated!](https://www.paypal.com/donate/?hosted_button_id=DN92VBWQAB6K6)
 
-## Reproduction / Purchasing options
+## Purchasing options
 
-If you do not want to go through the production process, and you are in the US, you can purchase a low cost pair of Finnes at: 
+If you are in the US, you can purchase a low cost pair of Finnes at: 
 [SENDCUTSEND](https://marketplace.sendcutsend.com/p/CK48F560/wrennes-finnes-intellijel-case-stand-pair).
 
 The price (ea) is for a pair. They are not anodized or brushed. They are otherwise fully functional, and this is the service I used during prototyping.
