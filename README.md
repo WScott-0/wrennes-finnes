@@ -21,7 +21,7 @@ Download the .stl file and print. This is obviously not as sturdy as metal, but 
 
 ## Metal Fabrication
 
-Download the .dxf and cut. Ideal material is 6061 T6 Aluminum. **Must be .125" to fit the case properly. **
+Download the .dxf and cut. Ideal material is 6061 T6 Aluminum. ** Must be .125" to fit the case properly. **
 
 ## Additional Notes
 
