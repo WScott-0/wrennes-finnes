@@ -5,11 +5,13 @@ I am making production files available here so that you can help yourself if you
 
 Thanks!
 
-You can throw me a cup of coffee if these help you out [Anything is appreciated!](https://www.paypal.com/donate/?hosted_button_id=DN92VBWQAB6K6)
+You can throw me a cup of coffee if these help you out 
+[Anything is appreciated!](https://www.paypal.com/donate/?hosted_button_id=DN92VBWQAB6K6)
 
 ## Reproduction / Purchasing options
 
-If you do not want to go through the production process, and you are in the US, you can purchase a low cost pair of Finnes at [SENDCUTSEND](https://marketplace.sendcutsend.com/p/CK48F560/wrennes-finnes-intellijel-case-stand-pair).
+If you do not want to go through the production process, and you are in the US, you can purchase a low cost pair of Finnes at: 
+[SENDCUTSEND](https://marketplace.sendcutsend.com/p/CK48F560/wrennes-finnes-intellijel-case-stand-pair).
 
 The price (ea) is for a pair. They are not anodized or brushed. They are otherwise fully functional, and this is the service I used during prototyping.
 
@@ -19,7 +21,7 @@ Download the .stl file and print. This is obviously not as sturdy as metal, but 
 
 ### Metal Fabrication
 
-Download the .dxf and cut. Ideal material is 6061 T6 Aluminum (.125")
+Download the .dxf and cut. Ideal material is 6061 T6 Aluminum. **Must be .125" to fit the case properly. **
 
 ### Additional Notes
 
